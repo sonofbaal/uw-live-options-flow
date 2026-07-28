@@ -6,7 +6,7 @@ filtered flow — same filters as the website flow feed — and bakes it into a
 single HTML file: premium charts, a sortable tape, hover tooltips, dark/light
 toggle. No build tools, no dependencies, standard library only.
 
-**Live demo:** https://YOUR_USERNAME.github.io/uw-live-options-flow/
+**Live demo:** https://sonofbaal.github.io/uw-live-options-flow/
 
 ![Dashboard overview](screenshots/hero.png)
 
